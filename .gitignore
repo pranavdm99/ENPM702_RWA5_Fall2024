@@ -1,0 +1,43 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# vscode
+/.vscode/
+
+# Build folder
+/rwa5_ws/build/
+
+/rwa5_ws/src/.vscode
+/rwa5_ws/src/group2_rwa5/.vscode
+/rwa5_ws/install/
+/rwa5_ws/log/
